@@ -1,0 +1,15 @@
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\bin\Debug\net6.0\Desafio 5.exe
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\bin\Debug\net6.0\Desafio 5.deps.json
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\bin\Debug\net6.0\Desafio 5.runtimeconfig.json
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\bin\Debug\net6.0\Desafio 5.dll
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\bin\Debug\net6.0\ref\Desafio 5.dll
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\bin\Debug\net6.0\Desafio 5.pdb
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.csproj.AssemblyReference.cache
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.AssemblyInfoInputs.cache
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.AssemblyInfo.cs
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.csproj.CoreCompileInputs.cache
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.dll
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\ref\Desafio 5.dll
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.pdb
+C:\Users\adelm\OneDrive\Programmer\Desafio 5\obj\Debug\net6.0\Desafio 5.genruntimeconfig.cache
