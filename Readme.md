@@ -6,4 +6,5 @@ Regras:
 2) O algoritmo deve pedir para jogador(2) informar um valor numérico igual ao que o jogador(1) informou.
 
 a) Se o jogador(2) informar um valor igual, o algoritmo deve exibir uma mensagem de sucesso e a quantidade de tentativas.
+
 b)Se o valor for diferente o sistema deve informar que o valor está incorreto, exibir a quantidade de tentativas e pedir um valor novamente.
